@@ -21,11 +21,3 @@ Recife - PE - Brazil. Security Analyst
 * Hacktivy con 2020
     https://www.youtube.com/watch?v=qLTe6Z10vj8
 
-#### CVES
-    * CVE-2020-35581
-    * CVE-2020-35582
-    * CVE-2020-25790
-    * CVE-2019-20804 
-    * CVE-2019-20803
-    * CVE-2019-13363
-    * CVE-2019-13364
