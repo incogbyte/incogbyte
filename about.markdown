@@ -4,13 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Rodolfo "incogbyte" Tavares
-Recife - PE - Brazil. Security Analyst
-
 @Mentions
-
-* Philips Hall of Fame
-    https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html
 
 * Book Bug Bounty Playbook by ghostlulz
 
