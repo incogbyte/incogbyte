@@ -1,4 +1,3 @@
-
 ### Hi there 👋
 
 My main focus areas are appsec, pentesting and reversing. 
@@ -11,7 +10,7 @@ My main focus areas are appsec, pentesting and reversing.
 
 <p align="center">
   <a href="https://twitter.com/incogbyte">
-    <img src="https://img.shields.io/twitter/follow/incogbyte0?style=for-the-badge&label=%40incogbyte0&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
+    <img src="https://img.shields.io/twitter/follow/incogbyte?style=for-the-badge&label=%40incogbyte&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
   <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7/">
     <img src="https://img.shields.io/badge/-Rodolfo%20Tavares-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
