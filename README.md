@@ -5,7 +5,7 @@ My main focus areas are appsec, pentesting and reversing.
 :notebook: ***Blogs:***
 - https://incogbyte.github.io
 
-<p align="center"><img width="50%" src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif?cid=790b7611234c47f637c55d477f74ff3ce765ab25940861ab&rid=giphy.gif&ct=g" /></p>
+<!--<p align="center"><img width="50%" src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif?cid=790b7611234c47f637c55d477f74ff3ce765ab25940861ab&rid=giphy.gif&ct=g" /></p>-->
 
 
 <p align="center">
@@ -15,9 +15,9 @@ My main focus areas are appsec, pentesting and reversing.
   <a href="https://www.linkedin.com/in/rodolfo-augusto-543863a7/">
     <img src="https://img.shields.io/badge/-Rodolfo%20Tavares-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <!--<a href="mailto:@gmail.com">
-    <img src="https://img.shields.io/badge/@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
-  </a> -->
+  <a href="mailto:Mail:incogbyte@protonmail.com">
+    <img src="https://img.shields.io/badge/Mail: incogbyte@protonmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a> 
   <!--<a href="https://keybase.io/namehere">
     <img src="https://img.shields.io/keybase/pgp/namehere?style=for-the-badge&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a> -->
