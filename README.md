@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"> Hi! there my name is Rodolfo <strong>"incogbyte"</strong> Tavares </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/11O5c9EfmZTyyA/giphy.gif">
