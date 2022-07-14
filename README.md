@@ -1,6 +1,6 @@
-### Hi there! I'm Rodolfo "inc0gbyt3" Tavares
+### Hi there! I'm Rodolfo Tavares
   
-ɹǝǝuᴉƃuǝ ǝsɹǝʌǝɹ, Crypto, Linux, iOs/Osx sec and any cool stuff with 1's or 0's. Occasionally CTFs. ~ inc0gbyt3 ~
+ɹǝǝuᴉƃuǝ ǝsɹǝʌǝɹ, Crypto, Linux, iOs/Osx sec and any cool stuff with 1's or 0's. Occasionally CTFs.
 
 - 🌱 I am currently learning more about security to improve my level
 
