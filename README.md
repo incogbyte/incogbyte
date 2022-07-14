@@ -1,4 +1,4 @@
-### Hi there! I'm Rodolfo Tavares
+### Hi there!
   
 ɹǝǝuᴉƃuǝ ǝsɹǝʌǝɹ, Crypto, Linux, iOs/Osx sec and any cool stuff with 1's or 0's. Occasionally CTFs.
 
@@ -6,9 +6,6 @@
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="rdpwn.github.io" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Breezeicons-apps-32-preferences-system-network.svg" />][website]
-[<img align="left" alt="https://br.linkedin.com/in/rodolfo-augusto-543863a7" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-<br/>
 <br>
 <a align="left" href="mailto://inc0gbyt3@protonmail.com">inc0gbyt3@proton.me</a>
 <br />
