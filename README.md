@@ -1,7 +1,5 @@
 
-follow me at ~> github.com/0xrdf
-@0xrodf ;)
+follow me at ~> 
+* [https://github.com/0xrdf](https://github.com/0xrdf)
+* Twitter: [https://twitter.com/0xrodf](https://twitter.com/0xrodf)
 
-* Blog: https://incogbyte.github.io
-* Mail: incogbyte@protonmail.com
-* Twitter: https://twitter.com/incogbyte
