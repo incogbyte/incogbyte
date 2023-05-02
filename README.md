@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **incogbyte@protonmail.com**
 
-- 📄 Know about my experiences [Pentester ~>:]](Pentester ~>:])
+- 📄 Know about my experiences .. dev, pentester, infosec researcher, appsec :)
 
 - ⚡ Fun fact **Honk Honk.. Mr ..**
 
