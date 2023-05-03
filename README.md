@@ -1,4 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://incogbyte.github.io](https://incogbyte.github.io)
 
