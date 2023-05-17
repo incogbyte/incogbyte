@@ -7,7 +7,8 @@
 
 - 📄 Know about my experiences .. dev, pentester, infosec researcher, appsec :)
 
-- ⚡ Fun fact **Honk Honk.. Mr ..**
+- ⚡ Fun fact **a.k.a 0s0r0sh1 恐ろしい  
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
