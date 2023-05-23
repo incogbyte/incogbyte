@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences .. pentester, infosec researcher, appsec :)
 
-- ⚡ Fun fact a.k.a *0s0r0sh1 恐ろしい*
+- ⚡ Fun fact *恐ろしい*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
