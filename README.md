@@ -1,7 +1,7 @@
 
-- 👨‍💻 All of my projects are available at [https://incogbyte.github.io](https://incogbyte.github.io)
+- 👨‍💻 All of my projects are available at [https://rodnt.github.io](https://rodnt.github.io)
 
-- 📝 I regularly write articles on [https://incogbyte.github.io](https://incogbyte.github.io)
+- 📝 I regularly write articles on [https://rodnt.github.io](https://rodnt.github.io)
 
 - 📫 How to reach me **incogbyte@protonmail.com**
 
