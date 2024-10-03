@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **incogbyte@protonmail.com**
 
-- 📄 Know about my experiences .. pentester, infosec researcher, appsec :)
+- 📄 An infosec guy who's constantly seeking for knowledge
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
