@@ -1,13 +1,21 @@
+<h1 align="center">Hi, I'm Incogbyte! 👋</h1>
+<h3 align="center">An infosec enthusiast constantly seeking knowledge and pushing boundaries.</h3>
 
-- 👨‍💻 All of my projects are available at [https://incogbyte.github.io](https://incogbyte.github.io)
+---
 
-- 📝 I regularly write articles on [https://incogbyte.github.io](https://incogbyte.github.io)
+### 🌟 About Me
+- 👨‍💻 Explore my projects: [**incogbyte.github.io**](https://incogbyte.github.io)
+- 📝 Check out my articles: [**incogbyte.github.io/blog**](https://incogbyte.github.io)
+- 📫 Reach me via email: **[incogbyte@protonmail.com](mailto:incogbyte@protonmail.com)**
 
-- 📫 How to reach me **incogbyte@protonmail.com**
+---
 
-- 📄 An infosec guy who's constantly seeking for knowledge
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/incogbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="incogbyte" height="30" width="40" /></a>
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://x.com/incogbyte" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="mailto:incogbyte@protonmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
