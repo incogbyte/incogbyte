@@ -5,7 +5,7 @@
 
 ### 🌟 About Me
 - 👨‍💻 Explore my projects: [**incogbyte.github.io**](https://incogbyte.github.io)
-- 📝 Check out my articles: [**incogbyte.github.io/blog**](https://incogbyte.github.io)
+- 📝 Check out my articles: [**incogbyte.github.io**](https://incogbyte.github.io)
 - 📫 Reach me via email: **[incogbyte@protonmail.com](mailto:incogbyte@protonmail.com)**
 
 ---
