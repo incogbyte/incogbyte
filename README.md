@@ -4,13 +4,13 @@
 ---
 
 ### 🌟 About Me
-- 👨‍💻 Explore my projects: [**incogbyte.github.io**](https://incogbyte.github.io)
-- 📝 Check out my articles: [**incogbyte.github.io**](https://incogbyte.github.io)
-- 📫 Reach me via email: **[incogbyte@protonmail.com](mailto:incogbyte@protonmail.com)**
+- Explore my projects: [**incogbyte.github.io**](https://incogbyte.github.io)
+- Check out my articles: [**incogbyte.github.io**](https://incogbyte.github.io)
+- Reach me via email: **[incogbyte@protonmail.com](mailto:incogbyte@protonmail.com)**
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://x.com/incogbyte" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
