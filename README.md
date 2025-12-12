@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm 丨几匚ㄖᎶ乃ㄚㄒ乇! 👋</h1>
+<h1 align="center">Hi, I'm 尺ㄖᗪㄖㄥ千ㄖ '丨几匚ㄖᎶ乃ㄚㄒ乇' ㄒ卂ᐯ卂尺乇丂  👋</h1>
 <h3 align="center">An infosec enthusiast constantly seeking knowledge and pushing boundaries.</h3>
 
 ---
 
 ### About Me
-- Explore my projects: [**incogbyte.github.io**](https://incogbyte.github.io)
-- Check out my articles: [**incogbyte.github.io**](https://incogbyte.github.io)
+- Blog / writeups: https://incogbyte.github.io
+- Vulnerability research (CVEs): https://incogbyte.github.io/cve/
 - Reach me via email: **[incogbyte@protonmail.com](mailto:incogbyte@protonmail.com)**
 
 ---
