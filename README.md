@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 尺ㄖᗪㄖㄥ千ㄖ 'incogbyte' ㄒ卂ᐯ卂尺乇丂 - </h1>
+<h1 align="center">Hi, i'm rodolfo 'incogbyte' tavares </h1>
 <h3 align="center">An infosec enthusiast constantly seeking knowledge and pushing boundaries.</h3>
 
 ---
